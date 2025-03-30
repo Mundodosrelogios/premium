@@ -1,0 +1,77 @@
+!DOCTYPE htmlhtml lang=pt-BR
+head
+  meta charset=UTF-8
+  meta name=viewport content=width=device-width, initial-scale=1.0
+  titleRelógio Lux Premiumtitle
+  style
+    body {
+      font-family Arial, sans-serif;
+      background-color #f4f4f4;
+      color #333;
+      margin 0;
+      padding 0;
+    }
+    .container {
+      max-width 600px;
+      margin auto;
+      background #fff;
+      padding 20px;
+      border-radius 10px;
+      box-shadow 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align center;
+      color #111;
+    }
+    img {
+      width 100%;
+      border-radius 8px;
+    }
+    ul {
+      padding-left 20px;
+    }
+    .price {
+      text-align center;
+      font-size 24px;
+      color #d32f2f;
+      margin-top 20px;
+    }
+    .cta {
+      display block;
+      background #25d366;
+      color #fff;
+      text-align center;
+      padding 15px;
+      margin 30px auto;
+      text-decoration none;
+      font-weight bold;
+      border-radius 5px;
+      max-width 300px;
+    }
+    .garantia {
+      font-size 14px;
+      text-align center;
+      color #777;
+      margin-top 20px;
+    }
+  style
+head
+body
+  div class=container
+    h1Relógio de Luxo Premiumh1
+    img src=httpsvia.placeholder.com600x300 alt=Relógio Luxuoso
+    pVocê merece estilo, elegância e presença! Apresentamos o strongRelógio Lux Premiumstrong, com design inspirado nos grandes nomes da relojoaria mundial.p
+    ul
+      liQualidade premium com acabamento impecávelli
+      liEstilo que impõe respeito e chama atençãoli
+      liResistente à águali
+      liBateria de longa duraçãoli
+      liPronta entrega! Receba em até 5 dias úteisli
+    ul
+    p class=priceDe R$299 por strongR$149 à vistastrongbrOu em até 3x sem juros!p
+    p style=text-align center;strongBônusstrong Estojo de luxo grátis!p
+    a href=httpswa.meSEUNUMEROAQUI class=ctaPedir agora pelo WhatsAppa
+    p class=garantiaGarantia de 7 dias ou seu dinheiro de volta!brCompra 100% segura e atendimento personalizado.p
+  div
+body
+html
